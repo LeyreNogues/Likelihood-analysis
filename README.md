@@ -7,3 +7,5 @@ It shows the extrating of the required inputs from the data obtained with the MA
 This work lead to a Phd thesis, can be consulted here: https://zaguan.unizar.es/record/76918
 
 Tools: C++ and ROOT libraries
+
+Author: Leyre Nogués
